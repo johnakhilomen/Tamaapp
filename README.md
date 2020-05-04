@@ -1,2 +1,2 @@
-# Tamaapp
-Tama Web Application
+# Tamara app
+Tamara Web Application
